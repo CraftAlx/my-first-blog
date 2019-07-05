@@ -25,7 +25,8 @@ SECRET_KEY = 'p4+#_%5*6eiz1mjs26fq6qp^a8wcdzameo-2o6@!%b1y11ww2o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Oleksandr_Remeslo>.pythonanywhere.com']
+ALLOWED_HOSTS = ['craftblog.pythonanywhere.com']
+# ALLOWED_HOSTS = ['127.0.0.1', '<Oleksandr_Remeslo>.pythonanywhere.com']
 
 
 # Application definition
